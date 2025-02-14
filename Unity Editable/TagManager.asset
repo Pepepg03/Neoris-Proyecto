@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Start
+  - Instrucciones
+  - Controles
+  - PuertaDerecha
+  - PuertaIzquierda
+  - EnemyHit
+  - spikes
+  - emerald
+  - coin
+  - entranceRight
+  - exitLeft
+  - exitRight
+  - entranceLeft
+  - PuertaAbajo
+  - SwordSwing
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - PlayerLayer
+  - Ground
+  - PlayerHitbox
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: A
+    uniqueID: 2403235739
+    locked: 0
+  - name: B
+    uniqueID: 3300469951
+    locked: 0
+  - name: C
+    uniqueID: 1083846293
+    locked: 0
+  - name: D
+    uniqueID: 3533855863
+    locked: 0
+  - name: E
+    uniqueID: 1456977237
+    locked: 0
+  - name: F
+    uniqueID: 2825318273
+    locked: 0
+  - name: G
+    uniqueID: 1236011207
+    locked: 0
+  - name: H
+    uniqueID: 2667090875
+    locked: 0
